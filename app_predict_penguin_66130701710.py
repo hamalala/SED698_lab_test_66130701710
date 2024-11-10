@@ -10,6 +10,7 @@ with open('model_penguin_66130701710.pkl', 'rb') as file:
 # Title for the app
 st.title("Penguin Species Prediction")
 
+st.header("66130701710 : Panuwat Roschum")
 # Collecting user input
 st.header("Input Penguin Measurements")
 
